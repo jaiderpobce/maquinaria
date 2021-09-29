@@ -1,0 +1,2 @@
+# maquinaria
+plantilla de maquinaria
